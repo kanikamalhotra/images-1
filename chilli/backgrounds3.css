@@ -1,0 +1,25 @@
+body {
+	font: 11px/22px Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+#smallbox {
+	background-image: url(chilli2.jpg);
+	background-repeat: no-repeat;
+	float: left;
+	padding-left: 10px;
+	margin-right: 20px;
+	width: 220px;
+	border: 1px solid #F5C9C9;
+}
+#smallbox ul {
+	list-style-type: none;
+	margin-left: 0;
+	padding-left: 0;
+}
+#smallbox li {
+	font-weight: bold;
+}
+#content {
+	margin-left: 40px;
+	margin-top: 40px;
+	margin-right: 80px;
+}

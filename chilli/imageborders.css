@@ -1,0 +1,10 @@
+body {
+	font: 11px/22px Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+#album {
+	margin: 30px;
+}
+#album img {
+	border: 1px solid #000000;
+	margin-right: 30px;
+}

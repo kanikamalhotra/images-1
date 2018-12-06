@@ -1,0 +1,17 @@
+html {
+	background-image: url(mini_chilli.jpg);
+	background-repeat: repeat-y;
+	background-position: 2px 2px;
+	background-attachment: fixed;
+}
+body {
+	font: 11px/22px Verdana, Geneva, Arial, Helvetica, sans-serif;
+	background-image: url(peppers_bg.jpg);
+	background-repeat: no-repeat;
+	background-position: 80px 20px;
+}
+#content {
+	margin-left: 220px;
+	margin-top: 40px;
+	margin-right: 80px;
+}
